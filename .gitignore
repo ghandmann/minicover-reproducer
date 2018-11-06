@@ -1,0 +1,5 @@
+**/bin
+**/obj
+.vscode
+coverage.json
+coverage.hits
