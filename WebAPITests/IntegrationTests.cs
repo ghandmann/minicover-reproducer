@@ -28,6 +28,7 @@ namespace WebAPITests
             Assert.Equal("[\"value1\",\"value2\"]", body);
         }
 
+        [Fact]
         public async Task ValuesController_Get()
         {
             var client = factory.CreateClient();
