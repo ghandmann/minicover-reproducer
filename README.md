@@ -1,5 +1,7 @@
 # Minimal Reproducer for Minicover not picking up ASP.net Core Integration Tests
 
+See https://github.com/lucaslorentz/minicover/issues/103 for updates/fixes.
+
 ## Steps to reproduce
 
 1) Clone this repository
